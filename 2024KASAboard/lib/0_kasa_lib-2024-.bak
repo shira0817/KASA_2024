@@ -15,7 +15,7 @@
 			)
 		)
 		(property "Value" "BME280"
-			(at 0 1.27 0)
+			(at 11.684 -5.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1047,7 +1047,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 105.41) (xy 217.17 105.41)
+			(xy 115.57 105.41) (xy 179.07 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1057,7 +1057,17 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 105.41) (xy 217.17 78.74)
+			(xy 171.45 78.74) (xy 171.45 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a407196-b8ce-49eb-bb9f-d6a9a45df995")
+	)
+	(wire
+		(pts
+			(xy 179.07 105.41) (xy 179.07 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1067,7 +1077,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 78.74) (xy 167.64 78.74)
+			(xy 166.37 78.74) (xy 129.54 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1077,7 +1087,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 69.85) (xy 153.67 69.85)
+			(xy 129.54 69.85) (xy 115.57 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1087,7 +1097,17 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 78.74) (xy 207.01 90.17)
+			(xy 115.57 100.33) (xy 171.45 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a1eda8b-70dd-44c5-98ff-f5282fc6f9ec")
+	)
+	(wire
+		(pts
+			(xy 168.91 78.74) (xy 168.91 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1097,7 +1117,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 107.95) (xy 212.09 107.95)
+			(xy 115.57 107.95) (xy 173.99 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1107,7 +1127,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 78.74) (xy 167.64 69.85)
+			(xy 129.54 78.74) (xy 129.54 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1117,7 +1137,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 107.95) (xy 212.09 78.74)
+			(xy 173.99 107.95) (xy 173.99 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1127,7 +1147,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 90.17) (xy 153.67 90.17)
+			(xy 168.91 90.17) (xy 115.57 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1137,7 +1157,7 @@
 	)
 	(symbol
 		(lib_id "0_kasa_lib-2024-:BME280")
-		(at 210.82 72.39 0)
+		(at 172.72 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1146,7 +1166,7 @@
 		(fields_autoplaced yes)
 		(uuid "375ee508-af37-4707-a0bb-b8095dfd40f3")
 		(property "Reference" "U2"
-			(at 219.71 74.9299 0)
+			(at 181.61 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1155,7 +1175,7 @@
 			)
 		)
 		(property "Value" "BME280"
-			(at 219.71 77.4699 0)
+			(at 181.61 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1164,7 +1184,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.36 71.12 0)
+			(at 175.26 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1173,7 +1193,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 71.12 0)
+			(at 175.26 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1182,7 +1202,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 210.82 72.39 0)
+			(at 172.72 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1219,7 +1239,7 @@
 	)
 	(symbol
 		(lib_id "MCU_RaspberryPi_and_Boards:Pico")
-		(at 135.89 83.82 0)
+		(at 97.79 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1228,7 +1248,7 @@
 		(fields_autoplaced yes)
 		(uuid "9dac3c96-4989-442f-9b54-59b75cf19479")
 		(property "Reference" "U1"
-			(at 135.89 52.07 0)
+			(at 97.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1236,7 +1256,7 @@
 			)
 		)
 		(property "Value" "Pico"
-			(at 135.89 54.61 0)
+			(at 97.79 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1244,7 +1264,7 @@
 			)
 		)
 		(property "Footprint" "RPi_Pico:RPi_Pico_SMD_TH"
-			(at 135.89 83.82 90)
+			(at 97.79 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1253,7 +1273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 83.82 0)
+			(at 97.79 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1262,7 +1282,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 83.82 0)
+			(at 97.79 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
